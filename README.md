@@ -1,4 +1,4 @@
-# Project-Objective
+# Project-Objective (Using Power BI)
 The Super Sales Dashboard project’s objective is to analyze sales data to understand key performance indicators and trends. This is to inform business decisions and strategies for improving sales performance.
 
 # Questions (KPIs)
