@@ -1,6 +1,9 @@
 # Project-Objective (Using Power BI)
 The Super Sales Dashboard project’s objective is to analyze sales data to understand key performance indicators and trends. This is to inform business decisions and strategies for improving sales performance.
 
+# DataSet-Used
+- <a href="https://github.com/surabhi-77/SuperStore-Sales-Dashboard-Power-BI/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset</a>
+
 # Questions (KPIs)
 •	How have overall sales, quantity sold, and profit changed between 2019 and 2020? 
 
